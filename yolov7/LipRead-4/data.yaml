@@ -1,0 +1,16 @@
+names:
+- A
+- E
+- I
+- O
+- U
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: lipread-yqfe8
+  url: https://universe.roboflow.com/jeremy-sv8gv/lipread-yqfe8/dataset/4
+  version: 4
+  workspace: jeremy-sv8gv
+test: ../test/images
+train: LipRead-4/train/images
+val: LipRead-4/valid/images

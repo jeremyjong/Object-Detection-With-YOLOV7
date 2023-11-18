@@ -1,0 +1,1 @@
+python detect.py --weights runs\train\exp2\weights\best.pt --conf 0.3 --img-size 640 --source 0
